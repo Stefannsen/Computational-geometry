@@ -1,0 +1,2 @@
+Poligonul nu este x-monoton
+Poligonul nu este y-monoton
